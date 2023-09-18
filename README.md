@@ -1,5 +1,5 @@
 # Local manifests #
-Local manifests for certus
+Local manifests for Redmi 6/6A (Certus)
 # How to use this? #
 ### For building Android 10 ###
 ```bash
