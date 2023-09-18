@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!-- Device Tree -->
+  <project path="device/xiaomi/certus" name="hdrd13/device_xiaomi_certus" remote="github" revision="12.1"/>
+
+ <!-- Kernel -->
+  <project path="kernel/xiaomi/mt6765" name="qwertyuiii-code/android_kernel_xiaomi_mt6765" remote="github" revision="10-alps"/>
+
+ <!-- Vendor Tree -->
+  <project path="vendor/xiaomi" name="sayann70/vendor_xiaomi" remote="github" revision="12"/>
+
+ <!-- Extras -->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-gnueabihf-7.5" name="wulan17/linaro_arm-linux-gnueabihf-7.5" remote="github" revision="master"/>
+
+</manifest>
