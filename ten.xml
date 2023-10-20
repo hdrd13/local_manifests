@@ -4,7 +4,7 @@
   <project path="device/xiaomi/certus" name="hdrd13/android_device_xiaomi_certus" remote="github" revision="10-alps"/>
 
  <!-- Kernel -->
-  <project path="kernel/xiaomi/mt6765" name="qwertyuiii-code/android_kernel_xiaomi_mt6765" remote="github" revision="10-alps"/>
+  <project path="kernel/xiaomi/mt6765" name="hdrd13/android_kernel_xiaomi_mt6765" remote="github" revision="10-alps"/>
 
  <!-- Vendor Tree -->
   <project path="vendor/xiaomi" name="wulan17/proprietary_vendor_xiaomi" remote="github" revision="10-alps"/>
